@@ -1,6 +1,7 @@
 SalaryComparison
 ================
-
+[App available here](https://bmorrisey.shinyapps.io/SalaryComparisonApp/)
+----------------
 Compare the effects of changing jobs
 
 A continuation of the analysis presented in this Forbes article:
